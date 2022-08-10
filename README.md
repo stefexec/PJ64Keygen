@@ -7,7 +7,9 @@
 </h1>
 
 <h4 align="center">Creates a .reg Keyfile to unlock the nagscreen-free version of the Project64 Emulator</h4>
-
+<p align="center">
+This is a work in progress and will receive updates in the future!
+</p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
