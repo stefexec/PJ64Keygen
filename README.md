@@ -10,6 +10,15 @@ Project64 Keyfile Generator v1.0
 <p align="center">
 This is a work in progress and will receive updates in the future!
 </p>
+<p align="center">
+DONATE:<br>
+BTC:
+bc1qytee2a0z2tg4k4zdtqj08zpellkrecrgdgg36z<br>
+LTC:
+ltc1qk2pe4srtcjt2cnnp5fcfvmknwckjus9ge8v5p9<br>
+RVN:
+RMQoBV7MkpEzVr3fZsndbpsC1vU7wtuETh<br>
+</p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
