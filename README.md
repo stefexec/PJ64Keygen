@@ -2,7 +2,7 @@
 # Project64 Keyfile Generator v1.0
 </h1>
 <h1 align="center">
-  <a href="https://github.com/stefexec/DUCKdater"><img src="https://i.ibb.co/sQY6JGm/Animation.gif" alt="DUCKdater" width="200"></a>
+  <a href="https://github.com/stefexec/DUCKdater"><img src="https://i.ibb.co/09Xwh1T/pj64.png" alt="DUCKdater" width="200"></a>
   <br>
 </h1>
 
@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/stefexec/DUCKdater/blob/main/images/duckdater_menu.png"> 
+  <img src="https://i.ibb.co/sQY6JGm/Animation.gif"> 
 </p>
 
 
