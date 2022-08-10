@@ -29,7 +29,7 @@ This is a work in progress and will receive updates in the future!
 
 ## How To Use
 
-Run .py file or use precompiled binary. Double-click 'keyfile.reg' and add to windows registry. Done!
+Run .py file or use precompiled binary. Double-click 'pj64_keyfile.reg' and add to windows registry. Done!
 
 ```bash
 # Clone this repository
