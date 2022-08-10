@@ -33,7 +33,7 @@ RMQoBV7MkpEzVr3fZsndbpsC1vU7wtuETh<br>
 
 ## Key Features
 
-* Creates a .reg file containing your personal keyfile
+* Creates a .reg file containing your personal key
 * Functions as intended
 
 ## How To Use
