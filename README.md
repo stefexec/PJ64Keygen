@@ -1,11 +1,9 @@
-# Project64 Keyfile Generator v1.0
-
 
 <h1 align="center">
   <br>
   <a href="https://github.com/stefexec/DUCKdater"><img src="https://i.ibb.co/sQY6JGm/Animation.gif" alt="DUCKdater" width="200"></a>
   <br>
-  DUCKdater
+  Project64 Keyfile Generator v1.0
   <br>
 </h1>
 
