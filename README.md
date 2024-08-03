@@ -1,10 +1,7 @@
 <h1 align="center">
 Project64 Keyfile Generator v1.0
 </h1>
-<h1 align="center">
-  <a href="https://github.com/stefexec/DUCKdater"><img src="https://i.ibb.co/09Xwh1T/pj64.png" alt="DUCKdater" width="200"></a>
-  <br>
-</h1>
+
 
 <h4 align="center">Creates a .reg Keyfile to unlock the nagscreen-free version of the Project64 Emulator</h4>
 <p align="center">
